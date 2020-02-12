@@ -46,3 +46,17 @@ footer {
     height: 2em;
     background: #1F0252;
 }
+
+/* Overwrites */
+
+.container {
+    background: #3C1581;
+}
+
+h1, p {
+    color: white;
+}
+
+a {
+    background: #FEED00;
+}
